@@ -174,22 +174,6 @@ export type RouterType = {
       nickname: string;
     };
   };
-  lol: {
-    sAuthor: string;
-    sIMG: string;
-    sTitle: string;
-    iTotalPlay: string;
-    iDocID: string;
-    sCreated: string;
-  };
-  ngabbs: {
-    tid: number;
-    subject: string;
-    author: string;
-    tpcurl: string;
-    replies: number;
-    postdate: number;
-  };
   tieba: {
     topic_id: number;
     topic_name: string;
